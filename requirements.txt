@@ -1,0 +1,5 @@
+#python libraries required for the project
+python-dotenv
+streamlit
+openai # best to use this or gemini model
+langchain-groq
